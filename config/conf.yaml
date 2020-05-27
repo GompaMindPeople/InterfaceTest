@@ -1,0 +1,3 @@
+seleniumPath: ./chromedriver.exe
+host: localhost
+port: 9515
